@@ -17,7 +17,7 @@ Minhas credenciais incluem formação em engenharia elétrica pela Pontifícia U
 ## Projetos:
 Veja as publicações:
 
-* **Como usar o Histograma para Data Science:** https://
+* **Análise dos Dados do Airbnb - San Francisco - CA:** https://github.com/CarlosCaosta/Data_Science/blob/c2f54a9a658a036b5e0c14a1e78c17cba41a0e6a/San_Francisco_CA_Analisando_dados_do_Airbnb.ipynb
 
 
 ---
